@@ -109,7 +109,7 @@ index = 1
 
 
 
-
+#EDIT THESE TWO 
 
 def updateText1():
     global texts1, images1
